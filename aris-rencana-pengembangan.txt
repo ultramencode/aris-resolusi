@@ -1,10 +1,1 @@
-RENCANA PENGEMBANGAN ARIS
 
-- Membuat web portofolio
- * membuat web landing page
-  ^ membuat landing page penjualan
-  ^ membuat landing page dengan bootstraps
-- membuat Web Pribadi
-  * menerapkan ilmu-ilmu pemrograman yang di dapat ke dalam web pribadi
-- bisnis baru di bidang web programing
-  * Belajar membuat web aplikasi
