@@ -1,0 +1,4 @@
+ARIS RESLUSI
+- Dapat memahami FrontEnd Web dan BackEnd Web
+- Dapat membuat Web program menggunakan Front End dan Backend
+- Mempunyai Tim dalam bidang pengembangan Web 
