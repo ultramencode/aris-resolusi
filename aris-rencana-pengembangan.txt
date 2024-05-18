@@ -1,0 +1,7 @@
+RENCANA PENGEMBANGAN ARIS
+
+- Membuat web portofolio
+- membuat Web Pribadi
+  * membuat Web pribadi agar terlihat lebih profesional 
+  * menerapkan ilmu-ilmu pemrograman yang di dapat ke dalam web pribadi
+- bisnis baru di bidang web programing
